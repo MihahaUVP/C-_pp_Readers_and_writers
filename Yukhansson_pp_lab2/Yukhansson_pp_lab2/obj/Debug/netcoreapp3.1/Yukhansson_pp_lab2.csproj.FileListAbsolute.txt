@@ -1,0 +1,13 @@
+C:\Users\миша\source\repos\Yukhansson_pp_lab2\Yukhansson_pp_lab2\bin\Debug\netcoreapp3.1\Yukhansson_pp_lab2.exe
+C:\Users\миша\source\repos\Yukhansson_pp_lab2\Yukhansson_pp_lab2\bin\Debug\netcoreapp3.1\Yukhansson_pp_lab2.deps.json
+C:\Users\миша\source\repos\Yukhansson_pp_lab2\Yukhansson_pp_lab2\bin\Debug\netcoreapp3.1\Yukhansson_pp_lab2.runtimeconfig.json
+C:\Users\миша\source\repos\Yukhansson_pp_lab2\Yukhansson_pp_lab2\bin\Debug\netcoreapp3.1\Yukhansson_pp_lab2.runtimeconfig.dev.json
+C:\Users\миша\source\repos\Yukhansson_pp_lab2\Yukhansson_pp_lab2\bin\Debug\netcoreapp3.1\Yukhansson_pp_lab2.dll
+C:\Users\миша\source\repos\Yukhansson_pp_lab2\Yukhansson_pp_lab2\bin\Debug\netcoreapp3.1\Yukhansson_pp_lab2.pdb
+C:\Users\миша\source\repos\Yukhansson_pp_lab2\Yukhansson_pp_lab2\obj\Debug\netcoreapp3.1\Yukhansson_pp_lab2.csprojAssemblyReference.cache
+C:\Users\миша\source\repos\Yukhansson_pp_lab2\Yukhansson_pp_lab2\obj\Debug\netcoreapp3.1\Yukhansson_pp_lab2.AssemblyInfoInputs.cache
+C:\Users\миша\source\repos\Yukhansson_pp_lab2\Yukhansson_pp_lab2\obj\Debug\netcoreapp3.1\Yukhansson_pp_lab2.AssemblyInfo.cs
+C:\Users\миша\source\repos\Yukhansson_pp_lab2\Yukhansson_pp_lab2\obj\Debug\netcoreapp3.1\Yukhansson_pp_lab2.csproj.CoreCompileInputs.cache
+C:\Users\миша\source\repos\Yukhansson_pp_lab2\Yukhansson_pp_lab2\obj\Debug\netcoreapp3.1\Yukhansson_pp_lab2.dll
+C:\Users\миша\source\repos\Yukhansson_pp_lab2\Yukhansson_pp_lab2\obj\Debug\netcoreapp3.1\Yukhansson_pp_lab2.pdb
+C:\Users\миша\source\repos\Yukhansson_pp_lab2\Yukhansson_pp_lab2\obj\Debug\netcoreapp3.1\Yukhansson_pp_lab2.genruntimeconfig.cache
